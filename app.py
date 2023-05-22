@@ -91,7 +91,7 @@ def main():
        else:
            st.write(f"The severity prediction is slight injury")
         
-       st.write("Developed By: Avi kumar Talaviya")
+       st.write("Developed By: Vrunda_Satani")
        st.markdown("""Reach out to me on: [Twitter](https://twitter.com/avikumart_) |
        [Linkedin](https://www.linkedin.com/in/avi-kumar-talaviya-739153147/) |
        [Kaggle](https://www.kaggle.com/avikumart) 
